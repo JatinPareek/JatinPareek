@@ -1,11 +1,7 @@
 ### <h1 align="center">Hi there, Jatin Pareek here 👋</h1>
 <h3 align="center">A passionate Frontend Developer, learning Game Development</h3>
-<!-- <img align = "center" alt="Coding" width="500" src="https://my.spline.design/macbookprocopy-dc10181009056ac7bbfb27f22115c41e/"> -->
-import { Application } from '@splinetool/runtime';
+<img align = "center" alt="Coding" width="500" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-const canvas = document.getElementById('canvas3d');
-const app = new Application(canvas);
-app.load('https://prod.spline.design/HlA2r97StuhIpeLY/scene.splinecode');
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinpareek&label=Profile%20views&color=0e75b6&style=flat" alt="jatinpareek" /> </p>
 
