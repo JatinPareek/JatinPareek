@@ -1,8 +1,12 @@
 ### <h1 align="center">Hi there, Jatin Pareek here 👋</h1>
 <h3 align="center">A passionate Frontend Developer, learning Game Development</h3>
 <!-- <img align = "center" alt="Coding" width="500" src="https://my.spline.design/macbookprocopy-dc10181009056ac7bbfb27f22115c41e/"> -->
-<script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.457/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/HlA2r97StuhIpeLY/scene.splinecode"></spline-viewer>
+import { Application } from '@splinetool/runtime';
+
+const canvas = document.getElementById('canvas3d');
+const app = new Application(canvas);
+app.load('https://prod.spline.design/HlA2r97StuhIpeLY/scene.splinecode');
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinpareek&label=Profile%20views&color=0e75b6&style=flat" alt="jatinpareek" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_jatinpareek" target="blank"><img src="https://img.shields.io/twitter/follow/_jatinpareek?logo=twitter&style=for-the-badge" alt="_jatinpareek" /></a> </p>
